@@ -1,0 +1,27 @@
+goswift/
+│
+├── apps/
+│   ├── web/
+│   ├── customer-mobile/
+│   ├── driver-mobile/
+│   └── admin/
+│
+├── backend/
+│   ├── api/
+│   ├── auth/
+│   ├── rides/
+│   ├── delivery/
+│   ├── food/
+│   ├── marketplace/
+│   ├── payments/
+│   └── notifications/
+│
+├── database/
+│   ├── schema/
+│   └── migrations/
+│
+├── infrastructure/
+│   ├── docker/
+│   └── deployment/
+│
+└── README.md
